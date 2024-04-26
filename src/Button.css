@@ -54,7 +54,7 @@ i.fa-solid {
 div.histories {
     min-height: 390px;
     max-height: 400px;
-    overflow-x: hidden;
+    overflow-x: auto;
     width: 30%;
     text-align: center;
     /* background-color: rgb(190, 183, 183); */
