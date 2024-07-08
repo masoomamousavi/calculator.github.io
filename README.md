@@ -1,4 +1,4 @@
-Hi Friends! 
+Hi Friends!  <br/>
 I've just completed my first React project - a fully functional calculator with a history feature! 💻🔢  <br/>
 
 Key Features:  <br/>
